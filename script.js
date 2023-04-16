@@ -57,5 +57,5 @@ async function fetchData() {
   prevButton.addEventListener('click', prevCandidate);
   nextButton.addEventListener('click', nextCandidate);
   
-  updateCard();
+  fetchData();
   
