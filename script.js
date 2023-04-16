@@ -8,13 +8,42 @@ async function fetchData() {
       d.foto = `https://estaticos.tvn.cl/skins/constituyentev2/renombradas/${d.slug}_big.jpg`;
       return d
 
-  })
+    })
+    populateRegionOptions(); // Add this line
+    filteredData = jsonData.filter(candidate => {
+      return !regionSelect.value || candidate.region === regionSelect.value;
+    });
+  
     updateCard();
   } catch (error) {
     console.error('Error fetching data:', error);
   }
 }
 
+// Add this function to populate the region options
+function populateRegionOptions() {
+  const regionSelect = document.getElementById('region');
+  const regions = [...new Set(jsonData.map(candidate => candidate.region))].sort();
+
+  regions.forEach(region => {
+    const option = document.createElement('option');
+    option.value = region;
+    option.textContent = region;
+    regionSelect.appendChild(option);
+  });
+}
+
+// Add these lines to filter the data based on the selected region
+let filteredData = [];
+const regionSelect = document.getElementById('region');
+
+regionSelect.addEventListener('change', () => {
+  currentIndex = 0;
+  filteredData = jsonData.filter(candidate => {
+    return !regionSelect.value || candidate.region === regionSelect.value;
+  });
+  updateCard();
+});
   
   let currentIndex = 0;
   
@@ -29,7 +58,7 @@ async function fetchData() {
   const nextButton = document.getElementById('next');
   
   function updateCard() {
-    const candidate = jsonData[currentIndex];
+    const candidate = filteredData[currentIndex];
     cardName.textContent = candidate.nombre;
     cardRegion.textContent = `Región: ${candidate.region}`;
     cardLista.textContent = `Lista: ${candidate.lista}`;
@@ -70,5 +99,8 @@ async function fetchData() {
   prevButton.addEventListener('click', prevCandidate);
   nextButton.addEventListener('click', nextCandidate);
   
-  fetchData();
+fetchData();
+
+  // Add this line at the end of the script to initialize filteredData with jsonData
+filteredData = jsonData;
   
