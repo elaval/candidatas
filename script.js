@@ -31,13 +31,26 @@ async function fetchData() {
   function updateCard() {
     const candidate = jsonData[currentIndex];
     cardName.textContent = candidate.nombre;
-    cardImg.src = candidate.foto;
-    cardImg.alt = `Foto de ${candidate.nombre}`;
     cardRegion.textContent = `Región: ${candidate.region}`;
     cardLista.textContent = `Lista: ${candidate.lista}`;
     cardPartido.textContent = `Partido: ${candidate.partido}`;
     perfilDescription.textContent = candidate.perfil;
     votantesDescription.textContent = candidate.orientacion_politica_de_votantes;
+  
+    // Check if the image is available on the server
+    let img = new Image();
+    img.src = candidate.foto;
+    img.onload = () => {
+      cardImg.src = candidate.foto;
+      cardImg.alt = `Foto de ${candidate.nombre}`;
+    };
+    img.onerror = () => {
+      // Replace with a dummy image when the image is not available
+      cardImg.src = "https://estaticos.tvn.cl/skins/constituyentev2/unused_candidata_big.jpg";
+      cardImg.alt = "Imagen no disponible";
+    };
+  
+  
   }
   
   function prevCandidate() {
