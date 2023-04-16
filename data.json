@@ -1,0 +1,145 @@
+[
+    {
+      nombre: "Andrés Emilio Sepúlveda Jiménez",
+      slug: "andres-emilio-sepulveda-jimenez",
+      region: "Región Metropolitana de Santiago",
+      lista: "Todo por Chile",
+      partido: "Partido Radical de Chile",
+      perfil:
+        "Andrés Emilio Sepúlveda Jiménez es un candidato a la comisión constitucional que busca poner fin a los abusos y asimetrías de poder, tanto políticas como empresariales, estableciendo un Estado Social y Democrático de Derecho y profundizando el modelo democrático y republicano en Chile. Sepúlveda considera que el Estado debe ser el protagonista en la satisfacción de las necesidades sociales, sin excluir a la participación privada, pero sometiéndola a regulaciones y estándares. Entre los derechos sociales que propone, destacan el acceso al alimento, agua, vivienda, educación, salud, pensión digna, trabajo decente y seguridad pública. En cuanto al sistema político, aboga por una reforma a la justicia constitucional y al Poder Legislativo, el fortalecimiento de la independencia política de órganos reguladores y la inclusión de perspectiva de género en la nueva Constitución. Asimismo, propone consagrar la seguridad pública como un derecho social y considera necesario incluir la protección del Medio Ambiente en la Carta Magna.",
+      orientacion_politica_de_votantes:
+        "La orientación política de las personas que podrían sentirse representadas por Andrés Emilio Sepúlveda Jiménez es probablemente de centro-izquierda, ya que su propuesta busca un Estado más activo en la satisfacción de necesidades sociales y la regulación de los sectores privados, además de enfocarse en temas como derechos sociales, perspectiva de género, seguridad ciudadana y medio ambiente."
+    },
+    {
+      nombre: "ANDRÉS PALMA IRARRÁZAVAL",
+      slug: "andres-palma-irarrazabal",
+      region: "Región Metropolitana de Santiago",
+      lista: "Todo por Chile",
+      partido: "Partido Demócrata Cristiano",
+      perfil:
+        "Andrés Palma Irarrázaval es un candidato que se enfoca en la equidad, justicia social y la participación ciudadana en un Estado Social y Democrático de Derecho. Propone fortalecer los gobiernos locales, garantizar la seguridad de los habitantes y el respeto a los derechos humanos. En cuanto a derechos sociales, aboga por el acceso a salud, educación, vivienda, pensiones dignas y derechos laborales. En el sistema político, sugiere separar la jefatura del Estado y del gobierno, y fortalecer el sistema de partidos. Palma Irarrázaval aboga por una perspectiva de género en la Constitución, la garantía de seguridad ciudadana y la regulación de la migración. Además, enfatiza la importancia de proteger el medio ambiente y promover el diálogo en el proceso constitucional.",
+      orientacion_politica_de_votantes:
+        "Los votantes que podrían sentirse representados por Andrés Palma Irarrázaval son aquellos que se identifican con un enfoque social y democrático, que buscan la equidad, la justicia social y el fortalecimiento de las instituciones estatales. También podrían atraer a quienes valoran los derechos sociales y la protección del medio ambiente, así como la promoción de la seguridad ciudadana y la perspectiva de género en la legislación. Estos votantes podrían tener una orientación política de centro o centro-izquierda, en línea con el Partido Demócrata Cristiano al que pertenece el candidato."
+    },
+    {
+      nombre: "Bruno Baranda Ferrán",
+      slug: "bruno-baranda-ferran",
+      region: "Región Metropolitana de Santiago",
+      lista: "Chile Seguro",
+      partido: "Renovación Nacional",
+      perfil:
+        "Bruno Baranda Ferrán es un candidato enfocado en otorgar orden, seguridad y estabilidad al país, asegurar un sistema político que proporcione gobernabilidad y recuperar el crecimiento económico. Considera que el Estado debe tener un rol social y colaborativo, respetando la dignidad humana y las capacidades individuales. Baranda aboga por la exigibilidad de derechos sociales en áreas como salud, pensiones, seguridad y vivienda, siempre que haya capacidad y recursos para cumplir con estas responsabilidades. En cuanto al sistema político, busca un sistema que promueva el diálogo y los acuerdos, recuperando el vínculo entre partidos políticos y ciudadanía. Defiende la inclusión de una perspectiva de género, seguridad ciudadana y protección medioambiental en la nueva Constitución, así como el tratamiento específico de la migración regular. En términos generales, busca una Constitución que repare el alma de Chile y ponga en el centro a las personas y sus familias, a través del diálogo y los acuerdos.",
+      orientacion_politica_de_votantes:
+        "Las personas que podrían sentirse representadas por Bruno Baranda Ferrán en caso de salir elegido, podrían tener una orientación política de centro-derecha, con preocupaciones en materia de seguridad, orden, crecimiento económico y protección de derechos sociales. Estos votantes podrían valorar la gobernabilidad, el diálogo entre los partidos políticos y la promoción de un Estado que colabore con la sociedad en lugar de reemplazarla en la toma de decisiones."
+    },
+    {
+      nombre: "Camila Fernanda Miranda Medina",
+      slug: "camila-fernanda-miranda-medina",
+      region: "Región Metropolitana de Santiago",
+      lista: "Unidad para Chile",
+      partido: "Comunes",
+      perfil:
+        "Camila Fernanda Miranda Medina es candidata al Consejo Constitucional por la lista Unidad para Chile y el partido Comunes. Aboga por una nueva Constitución que consagre un Estado Social y Democrático de Derecho, garantice igualdad de género y proteja el medio ambiente. Considera fundamental fortalecer y hacer exigibles derechos como salud digna, seguridad social, educación sin endeudamiento y trabajo decente. Propone cambios en el sistema político para mejorar la representatividad y fiscalización, e impulsar la participación ciudadana. Camila aboga por una Constitución feminista que reconozca el trabajo doméstico y garantice la paridad de género. En temas de seguridad ciudadana, plantea la creación de un cuerpo especializado en crimen organizado y narcotráfico, y el fortalecimiento del Ministerio Público. A su vez, propone que la nueva Constitución aborde la migración de manera ordenada y respetuosa de los Derechos Humanos, y que consagre la protección del medio ambiente.",
+      orientacion_politica_de_votantes:
+        "Los votantes que podrían sentirse representados por Camila Fernanda Miranda Medina podrían ser aquellos con una orientación política de izquierda o centroizquierda, preocupados por temas sociales, de igualdad de género, medio ambiente y participación ciudadana. También aquellos que buscan una reforma profunda del sistema político y una mayor garantía y exigibilidad de los derechos sociales."
+    },
+    {
+      nombre: "Carmen Gloria González Burns",
+      slug: "carmen-gloria-gonzalez-burns",
+      region: "Región Metropolitana de Santiago",
+      lista: "Partido de la Gente",
+      partido: "Partido de la Gente",
+      perfil:
+        "Carmen Gloria González Burns es candidata al Consejo Constitucional con una plataforma basada en la soberanía nacional, la seguridad ciudadana y la protección de los derechos fundamentales. Prioriza el bienestar común de la ciudadanía y el respeto a la equidad entre géneros. Sus propuestas incluyen reformar el proceso penal, fortalecer la protección del medio ambiente y garantizar el derecho a vivir en paz y libre de contaminación. Carmen busca mantener los tres poderes del Estado pero con modificaciones, como limitar las remuneraciones de las cámaras legislativas y las facultades del Ejecutivo en materia de indultos. Además, desea incluir lineamientos sobre migración en la nueva Constitución y proteger la seguridad ciudadana fortaleciendo las capacidades de los Carabineros de Chile y reformando el Ministerio Público.",
+      orientacion_politica_de_votantes:
+        "Las personas que podrían sentirse representadas por Carmen Gloria González Burns en caso de ser elegida probablemente tendrían una orientación política centrada en la protección de los derechos y libertades fundamentales, la equidad de género y la promoción de políticas públicas que beneficien al bien común. Asimismo, podrían estar interesadas en la protección del medio ambiente y la seguridad ciudadana, así como en una reforma de los poderes del Estado para hacerlos más eficientes y justos."
+    },
+    {
+      nombre: "Eleonora Espinoza Hernández",
+      slug: "eleonora-espinoza-hernandez",
+      region: "Región Metropolitana de Santiago",
+      lista: "Chile Seguro",
+      partido: "Renovación Nacional",
+      perfil:
+        "Eleonora Espinoza Hernández es candidata al Consejo Constitucional por la lista Chile Seguro y el partido Renovación Nacional en la Región Metropolitana de Santiago. Su visión de una nueva Constitución se basa en tres ejes principales: representatividad, un Estado democrático y descentralizado, y una democracia representativa con poderes separados. Espinoza busca garantizar derechos fundamentales a través de una colaboración virtuosa entre el Estado y privados, en áreas como salud, educación y vivienda. En cuanto al sistema político, aboga por mantener el presidencialismo, pero sugiere modificar el sistema electoral y examinar el quorum actual para la aprobación de leyes. Aunque no considera conveniente explicitar una 'perspectiva de género' en la Constitución, propone medidas de acción positiva para fomentar la participación de las mujeres en diferentes ámbitos. Espinoza aboga por incluir un capítulo específico sobre Carabineros de Chile y la Policía de Investigaciones, y otorgar mayores atribuciones a los municipios en cuanto a seguridad ciudadana. Además, considera necesario abordar la temática migratoria y la protección del medio ambiente en la nueva Carta Magna. Finalmente, destaca la importancia de garantizar un techo, salud, educación y seguridad a las familias chilenas.",
+      orientacion_politica_de_votantes:
+        "Las personas que podrían sentirse representadas por Eleonora Espinoza Hernández probablemente se identifican con una orientación política de centro-derecha, valorando la colaboración entre el Estado y el sector privado, y buscando un equilibrio entre la protección de derechos fundamentales y la preservación de ciertos valores tradicionales como la familia y la libertad religiosa. Estos votantes podrían estar interesados en mantener un sistema presidencialista y en fortalecer la seguridad ciudadana, así como en abordar temas de migración y medio ambiente de manera responsable y sostenible."
+    },
+    {
+      nombre: "Jaime Ravinet de la Fuente",
+      slug: "jaime-ravinet-de-la-fuente",
+      region: "Región Metropolitana de Santiago",
+      lista: "Chile Seguro",
+      partido: "Evolución Política",
+      perfil:
+        "Jaime Ravinet de la Fuente es un candidato que se centra en la protección de las personas, la modernización del Estado y el control de la delincuencia y la inmigración. Considera que un Estado Social y Democrático de Derecho debe coexistir con la libertad de emprender y el empoderamiento de organizaciones intermedias. Sus derechos sociales fundamentales incluyen una salud digna, una educación de calidad, una pensión mínima y el derecho a la vivienda propia. Defiende un sistema presidencial y parlamentario bicameral, con un poder judicial autónomo, y busca la descentralización y el traspaso de funciones a regiones y municipios. Aunque no incluiría una perspectiva de género en la nueva Constitución, aboga por la igualdad y la no discriminación entre hombres y mujeres. Cree que la seguridad ciudadana es un tema urgente y propone fortalecer y respaldar a Carabineros y la PDI, y establecer la Defensoría Nacional de las Víctimas. La migración debe ser controlada y establecer cuotas para los extranjeros que aporten al país, y considera que la protección del Medio Ambiente debe ser compatible con el crecimiento sustentable.",
+      orientacion_politica_de_votantes:
+        "La orientación política de los votantes que podrían sentirse representados por Jaime Ravinet de la Fuente puede ser de centro-derecha, ya que prioriza la seguridad ciudadana y el control de la inmigración, a la vez que defiende la libertad de emprender y la coexistencia de sistemas públicos y privados en salud y educación. Estos votantes podrían valorar un enfoque más conservador en temas de género y un énfasis en la descentralización y la autonomía regional."
+    },
+    {
+      nombre: "Karen Viviana Araya Rojas",
+      slug: "karen-viviana-araya-rojas",
+      region: "Región Metropolitana de Santiago",
+      lista: "Unidad para Chile",
+      partido: "Partido Comunista de Chile",
+      perfil:
+        "Karen Viviana Araya Rojas es una candidata comprometida con el establecimiento de un Estado Social y Democrático de Derecho que garantice derechos fundamentales como salud, educación, vivienda y seguridad social. Aboga por una democracia real y sustantiva, procesos de participación paritarios y representativos, y un desarrollo económico sostenible que asegure bienestar para todos. En su propuesta, destaca la importancia de una economía mixta en la que el mercado y la iniciativa privada sean relevantes, pero también la acción del Estado en áreas clave como la administración de recursos naturales. Karen busca consagrar en la Constitución un sistema nacional de salud universal, educación pública y laica, vivienda digna y un sistema de seguridad social basado en la solidaridad. También propone cambios en el sistema político, como un bicameralismo asimétrico, paridad de género en el ámbito público y privado, escaños para pueblos originarios y la implementación de iniciativas populares de ley, plebiscitos y referendos. La candidata aboga por integrar una perspectiva de género en la Constitución, asegurar entornos seguros y libres de violencia, garantizar igualdad formal y sustantiva entre todas las personas y proteger el medio ambiente.",
+      orientacion_politica_de_votantes:
+        "Karen Viviana Araya Rojas podría representar a votantes con una orientación política de izquierda, que busquen un Estado más activo en la garantía de derechos sociales y en la regulación de la economía, la paridad de género, el reconocimiento de los pueblos originarios y la protección del medio ambiente. Estos votantes podrían valorar la importancia de la participación ciudadana en los procesos políticos y la inclusión de diversas voces en la toma de decisiones."
+    },
+    {
+      nombre: "María José Puigrredón Figueroa",
+      slug: "maria-jose-puigrredon-figueroa",
+      region: "Región Metropolitana de Santiago",
+      lista: "Chile Seguro",
+      partido: "Unión Demócrata Independiente",
+      perfil:
+        "María José Puigrredón Figueroa es una candidata enfocada en la seguridad, los derechos sociales y el sistema previsional. Su visión del Estado Social y Democrático de Derecho es la de un Estado colaborador en el que participan entidades estatales, privadas y de la sociedad civil para garantizar los derechos sociales. Aboga por la protección de las pensiones y la libre elección en la administración de los fondos, la educación y la salud, considerando la colaboración entre lo público y privado como la forma más eficiente. En el ámbito político, busca reducir la fragmentación y aumentar la representatividad mediante porcentajes mínimos para candidatos y partidos. María José apoya la perspectiva de género en la Constitución y la paridad de entrada, pero no la de salida. Además, propone medidas de seguridad ciudadana, como la defensoría para víctimas, consagrar el terrorismo y el narcotráfico como contrarios a los Derechos Humanos y fortalecer a las policías. En cuanto a la migración, sostiene que se deben abordar temas como la nacionalidad, derechos civiles de personas migrantes y el derecho a voto en la Constitución. Por último, busca incluir principios medioambientales y el desarrollo en armonía con el medio ambiente.",
+      orientacion_politica_de_votantes:
+        "María José Puigrredón Figueroa podría atraer a votantes de centro-derecha o derecha, que buscan un equilibrio entre la garantía de derechos sociales y la participación de entidades privadas, y valoran la seguridad ciudadana, la colaboración público-privada en áreas como la salud y la educación, y la protección de las pensiones en un sistema de capitalización individual."
+    },
+    {
+      nombre: "Mauricio Andrés Pavez Galaz",
+      slug: "mauricio-andres-pavez-galaz",
+      region: "Región Metropolitana de Santiago",
+      lista: "Partido de la Gente",
+      partido: "Partido de la Gente",
+      perfil:
+        "Mauricio Andrés Pavez Galaz es un candidato al Consejo Constitucional que aboga por una nueva Constitución centrada en derechos sociales y libertades individuales, mayor independencia del Poder Judicial y modernización de la democracia, incluyendo la participación directa de la ciudadanía. Pavez Galaz apoya la consagración de derechos exigibles como vivienda digna, educación de calidad, salud y pensión suficiente. En cuanto al sistema político, propone cambios que incluyen democracia directa, mayor independencia judicial, voto aleatorio en el Congreso y requisitos de elegibilidad claros para autoridades. En temas de seguridad ciudadana, apoya otorgar más facultades a las fuerzas de seguridad y eventualmente a las Fuerzas Armadas en situaciones específicas. Pavez Galaz no considera necesaria la inclusión de una perspectiva de género en la Constitución y propone regular la migración ilegal de manera restrictiva. Defiende la protección del Medio Ambiente mediante la promoción de una economía sustentable.",
+      orientacion_politica_de_votantes:
+        "Las personas que podrían sentirse representadas por Mauricio Andrés Pavez Galaz tienden a tener una orientación política más conservadora, enfocada en la seguridad, la protección de derechos individuales y la promoción de una economía libre y sustentable. Estos votantes podrían no estar a favor de incluir una perspectiva de género en la Constitución o de políticas migratorias más inclusivas, y podrían valorar la propuesta de mayor participación ciudadana en la toma de decisiones políticas."
+    },
+    {
+      nombre: "Rocío Fernanda Donoso Pineda",
+      slug: "rocio-fernanda-donoso-pineda",
+      region: "Región Metropolitana de Santiago",
+      lista: "Unidad para Chile",
+      partido: "Revolución Democrática",
+      perfil:
+        "Rocío Fernanda Donoso Pineda es una candidata comprometida con la seguridad social, ciudadana y ambiental, buscando garantizar derechos sociales como pensiones, educación, salud y vivienda. Su visión de un Estado Social y Democrático de Derecho implica una evolución del sistema actual, donde los derechos sociales pueden ser entregados por entes estatales o privados, regulados para evitar abusos. Rocío aboga por una mayor participación ciudadana en la política, proponiendo mecanismos como urgencias ciudadanas, iniciativas/derogaciones de norma y plebiscitos dirimentes. Además, considera fundamental la inclusión de perspectiva de género, protección del medio ambiente y regulación de migración en la nueva Constitución.",
+      orientacion_politica_de_votantes:
+        "Las personas que podrían sentirse representadas por Rocío Fernanda Donoso Pineda son aquellas con inclinaciones políticas de centro-izquierda, que buscan un enfoque más equitativo y justo en la provisión de derechos sociales, mayor participación ciudadana en la toma de decisiones políticas, y una atención especial a temas de género, medio ambiente y migración."
+    },
+    {
+      nombre: "Rodrigo Alfonso Rettig Vargas",
+      slug: "rodrigo-alfonso-rettig-vargas",
+      region: "Región Metropolitana de Santiago",
+      lista: "Unidad para Chile",
+      partido: "Partido Liberal de Chile",
+      perfil:
+        "Rodrigo Alfonso Rettig Vargas es un candidato que busca fortalecer los derechos sociales, como la salud, educación, pensiones y vivienda, en la nueva Constitución de Chile. Aboga por un sistema de gobierno y electoral que asegure la gobernabilidad y legitimidad política, y que establezca un equilibrio entre lo económico, social y medioambiental. Rettig Vargas interpreta que el Estado debe garantizar las condiciones de vida material para el ejercicio de la libertad, permitiendo la participación de privados bajo un régimen público. En cuanto al sistema político, propone cambios en el sistema de gobierno y electoral para evitar la fragmentación y polarización. Rettig Vargas considera que la Constitución debe incluir una perspectiva de género y medidas afirmativas para garantizar la igualdad. En temas de seguridad ciudadana, propone la incorporación de entornos seguros y libres de violencia como derecho fundamental, además de crear instituciones como la Defensoría de las Víctimas. Respecto a la migración, sugiere prohibir discriminaciones arbitrarias basadas en el estado migratorio. Por último, enfatiza en la necesidad de proteger el medio ambiente, incorporando la sostenibilidad como principio fundamental.",
+      orientacion_politica_de_votantes:
+        "Las personas que podrían sentirse representadas por Rodrigo Alfonso Rettig Vargas probablemente tengan una orientación política liberal y progresista, que valoren la importancia de los derechos sociales, la igualdad de género, la seguridad ciudadana y la protección del medio ambiente. Estos votantes podrían estar interesados en un equilibrio entre la intervención del Estado y la participación del sector privado en el desarrollo del país, y en la búsqueda de soluciones que promuevan la gobernabilidad y la legitimidad política."
+    },
+    {
+      nombre: "Rodrigo Delgado Mocarquer",
+      slug: "rodrigo-delgado-mocarquer",
+      region: "Región Metropolitana de Santiago",
+      lista: "Chile Seguro",
+      partido: "Unión Demócrata Independiente",
+      perfil:
+        "Rodrigo Delgado Mocarquer es candidato al Consejo Constitucional con la lista Chile Seguro y el partido Unión Demócrata Independiente. Sus principales ejes para la nueva Constitución son la salud, pensiones, educación y vivienda como derechos sociales fundamentales, seguridad ciudadana y una economía fuerte. Considera que la Constitución debe adaptarse a los cambios sociales y enfrentar problemas actuales como la delincuencia y el narcotráfico. Propone la creación de una Defensoría de las Víctimas, garantizar el acceso universal a un sistema básico de salud de calidad y establecer un sistema previsional que incluya el principio de solidaridad. En el ámbito político, sugiere la creación de un quinto Estado de Excepción y la implementación de barreras de entrada para reducir la cantidad de partidos políticos. Delgado apoya la perspectiva de género en la Constitución, pero sin fijar un piso mínimo para cada sexo. Aboga por la inclusión del derecho a la seguridad pública y la migración legal y ordenada en la Carta Magna, así como la protección del Medio Ambiente y el reconocimiento del derecho al agua. Su experiencia como ministro de Interior y Seguridad Pública le permite abordar temas de seguridad y narcotráfico desde una perspectiva cercana a la realidad de los barrios.",
+      orientacion_politica_de_votantes:
+        "Las personas que podrían sentirse representadas por Rodrigo Delgado Mocarquer posiblemente sean de orientación política conservadora o de centro-derecha, que busquen soluciones concretas y efectivas a problemas de seguridad ciudadana, delincuencia y narcotráfico. Además, podrían estar interesados en fortalecer la economía, mejorar el acceso a derechos sociales fundamentales y en una visión equilibrada entre protección del medio ambiente y desarrollo económico."
+    }
+  ]
