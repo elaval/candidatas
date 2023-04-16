@@ -4,7 +4,7 @@ async function fetchData() {
   try {
     const response = await fetch('data.json');
     jsonData = await response.json();
-    jsonData = jsonDataRaw.map(d => {
+    jsonData = jsonData.map(d => {
       d.foto = `https://estaticos.tvn.cl/skins/constituyentev2/renombradas/${d.slug}_big.jpg`;
       return d
 
