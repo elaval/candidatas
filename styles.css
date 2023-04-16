@@ -78,4 +78,29 @@ body {
     background-color: #cccccc;
     cursor: not-allowed;
   }
+
+  .notes {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .notes h2 {
+    margin-bottom: 10px;
+  }
+  
+  .notes p {
+    margin-bottom: 5px;
+  }
+  
+  .notes a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .notes a:hover {
+    text-decoration: underline;
+  }
+  
   
