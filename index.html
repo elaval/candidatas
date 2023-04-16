@@ -1,1 +1,42 @@
-<h1>hello world</h1>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Candidatos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Perfil del Candidato</h1>
+    <div class="card">
+      <div class="card-header">
+        <img src="" alt="Foto del candidato" class="card-img">
+        <div class="card-info">
+          <h2 class="card-name"></h2>
+          <p class="card-region"></p>
+          <p class="card-lista"></p>
+          <p class="card-partido"></p>
+        </div>
+      </div>
+      <div class="card-body">
+        <div class="card-perfil">
+          <h3>Perfil</h3>
+          <p class="perfil-description"></p>
+        </div>
+        <div class="card-votantes">
+          <h3>Perfil Político de los Posibles Votantes</h3>
+          <p class="votantes-description"></p>
+        </div>
+      </div>
+    </div>
+    <div class="navigation">
+      <button id="prev">Anterior</button>
+      <button id="next">Siguiente</button>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
+
